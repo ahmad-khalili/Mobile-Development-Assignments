@@ -1,0 +1,15 @@
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\MD_Assignment2.exe
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\MD_Assignment2.deps.json
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\MD_Assignment2.runtimeconfig.json
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\MD_Assignment2.dll
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\ref\MD_Assignment2.dll
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\bin\Debug\net6.0\MD_Assignment2.pdb
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.dll
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\ref\MD_Assignment2.dll
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.pdb
+C:\Users\ahmad\source\repos\MD_Assignment2\MD_Assignment2\obj\Debug\net6.0\MD_Assignment2.genruntimeconfig.cache
